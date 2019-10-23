@@ -16,3 +16,15 @@ View offline
 2. Get the theme first `git submodule update --init --recursive`
 3. Run HUGO server by `hugo server` (or execute `./view.sh`)
 4. Default will run on `http://localhost:1313/`
+
+## Resources
+
+### Art
+
+Icon
+
+> [Academic Icon](https://sourcethemes.com/academic/docs/page-builder/#icons)
+
+* [Academicons](https://jpswalsh.github.io/academicons/)
+  * `"fab"`/`"fas"`, `"far"`/`"ai"`
+* [Icons | Font Awesome](https://fontawesome.com/icons?d=gallery)
