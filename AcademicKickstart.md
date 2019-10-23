@@ -56,3 +56,9 @@ Google Analytics
     * `[![Analytics](https://ga-beacon.appspot.com/UA-XXXXXXXXX-X/repo-name/page)](https://github.com/igrigorik/ga-beacon)`
     * `UA-XXXXXXXXX-X` is your Tracking ID (追蹤 ID)
     * add `?param` after image link to hide the image
+
+---
+
+## Trouble Shooting
+
+* [failed to extract shortcode: template for shortcode "alert" not found · Issue #1034 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1034)

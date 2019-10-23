@@ -1,2 +1,5 @@
 public/
 .idea/
+
+# generated files using `git submodule update --init --recursive`
+_gen/
