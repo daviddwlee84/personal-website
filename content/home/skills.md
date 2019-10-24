@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = """
+  **Python** for Machine Learning <br>
+  **C/C++** for Embedding System Design <br>
+  **Node.js** for Back-end Design <br>
+  **Java** for Android App. Dev. <br>
+  **C#** for Unity Game Design <br>
+  **Verilog HDL** for FPGA Design <br>
+  **Matlab**, **R** for Math Calculation
+  """
   
 [[feature]]
-  icon = "chart-line"
+  icon = "guitar"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Music"
+  description = """
+  Drum Kit <br>
+  Guitar <br>
+  Piano <br>
+  Wind Band Percussion
+  """  
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Other Hobits"
+  description = """
+  Photography <br>
+  Rubik's Cube <br>
+  Skateboarding <br>
+  Bicycling
+  """
 
 +++
