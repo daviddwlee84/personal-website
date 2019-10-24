@@ -57,6 +57,14 @@ Google Analytics
     * `UA-XXXXXXXXX-X` is your Tracking ID (追蹤 ID)
     * add `?param` after image link to hide the image
 
+Publication filtering
+
+```md
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
+```
+
 ---
 
 ## Trouble Shooting
