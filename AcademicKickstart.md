@@ -68,6 +68,20 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}}
 ```
 
+YAML vs. TOML
+
+> academic predominantly ([Front Matter | Academic](https://sourcethemes.com/academic/docs/front-matter/))
+>
+> * use YAML to format the front matter of content files
+> * use TOML to format the configuration files and widget files
+
+* YAML
+  * [Learn yaml in Y Minutes](https://learnxinyminutes.com/docs/yaml/)
+  * warp in `---`
+* TOML
+  * [Learn toml in Y Minutes](https://learnxinyminutes.com/docs/toml/)
+  * warp in `+++`
+
 ---
 
 ## Trouble Shooting
