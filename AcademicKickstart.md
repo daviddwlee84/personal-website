@@ -84,6 +84,12 @@ YAML vs. TOML
 
 ---
 
+## Note
+
+Currently, the default author is "admin". Use it in the `authors: ["admin", ...]` instead of the "literally name" (but if it's other's then whatever) so that it can link everything that labeled with same author name. (including showing a little name card at the bottom of the posts)
+
+doi => [Digital Object Identifier System](https://www.doi.org/)
+
 ## Trouble Shooting
 
 * [failed to extract shortcode: template for shortcode "alert" not found · Issue #1034 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1034)

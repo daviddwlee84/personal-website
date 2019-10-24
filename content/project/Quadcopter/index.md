@@ -3,7 +3,7 @@
 
 title: "Modularized Quadcopter Architecture with Computer Vision Control"
 summary: "My independent study of department. Built a quadcopter from scratch, running on different platform and combined with CV. Earn school awards: Best Independent Study Award, Best Popularity Award."
-authors: ["Da-Wei Lee", "Chung-Chang Chen", "Jyun-Yang Shih"]
+authors: ["admin", "Chung-Chang Chen", "Jyun-Yang Shih"]
 tags: ["School Project"]
 categories: []
 date: 2016-11-04

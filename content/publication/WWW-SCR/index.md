@@ -2,9 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Similar Cases Recommendation via Legal Knowledge Graph Construction and Representation"
-authors: ["Nian-Tao Xie", "Sheng-Guang Wang", "Da-Wei Lee", "Jing-Lin Zhao", "Su-Jian Li"]
+authors: ["Nian-Tao Xie", "Sheng-Guang Wang", "admin", "Jing-Lin Zhao", "Su-Jian Li"]
 date: 2019-10-14
 doi: ""
+# ACM DOI 10.1145/1122445.1122456
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-01-10

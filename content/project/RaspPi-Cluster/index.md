@@ -3,7 +3,7 @@
 
 title: "Raspberry Pi Cluster"
 summary: "An efficient quick-start tool to build a Raspberry Pi Cluster with popular ecosystem like Hadoop, Spark"
-authors: ["Da-Wei Lee"]
+authors: ["admin"]
 tags: ["Side Project"]
 categories: []
 date: 2019-10-24
