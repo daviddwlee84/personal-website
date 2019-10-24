@@ -166,7 +166,7 @@ link_authors = true
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = ["google-analysis"]
+plugins_js  = []
 
 # Configuration of publication pages.
 [publications]
@@ -250,5 +250,5 @@ plugins_js  = ["google-analysis"]
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-150731639-1"
   google_tag_manager = ""

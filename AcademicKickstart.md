@@ -48,14 +48,17 @@ Netlify
 Google Analytics
 
 > * [Using a Beacon Image for GitHub, Website and Email Analytics](https://www.sitepoint.com/using-beacon-image-github-website-email-analytics/)
+> * [Set up a property - Analytics Help](https://support.google.com/analytics/answer/1042508?hl=en)
+>   * [apply Google](https://analytics.google.com/analytics/web/?authuser=0#/provision)
 
-* [igrigorik/ga-beacon: Google Analytics collector-as-a-service (using GA measurement protocol).](https://github.com/igrigorik/ga-beacon) - follow the **Setup instructions**
-* [Set up a property - Analytics Help](https://support.google.com/analytics/answer/1042508?hl=en)
-  * [apply Google](https://analytics.google.com/analytics/web/?authuser=0#/provision)
+* Set on Github page?!
+  * [igrigorik/ga-beacon: Google Analytics collector-as-a-service (using GA measurement protocol).](https://github.com/igrigorik/ga-beacon) - follow the **Setup instructions**
   * track page
     * `[![Analytics](https://ga-beacon.appspot.com/UA-XXXXXXXXX-X/repo-name/page)](https://github.com/igrigorik/ga-beacon)`
     * `UA-XXXXXXXXX-X` is your Tracking ID (追蹤 ID)
     * add `?param` after image link to hide the image
+* Set on Academic Kickstart
+  * [Customization | Academic](https://sourcethemes.com/academic/docs/customization/#analytics)
 
 Publication filtering
 
