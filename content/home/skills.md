@@ -46,6 +46,7 @@ subtitle = ""
   description = """
   Photography <br>
   Rubik's Cube <br>
+  3D Printing <br>
   Skateboarding <br>
   Bicycling
   """

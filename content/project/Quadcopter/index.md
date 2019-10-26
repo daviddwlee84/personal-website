@@ -39,3 +39,38 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Technique:
+
+* PID (proportional-integral-derivative) Control
+* Object detection (using OpenCV)
+* GUI Control Panel
+
+Development Environment:
+
+* Flying Algorithm (using one of the development board):
+  * ARM - STM32F4
+  * HOLTEK - HT32F1656
+  * Intel Edison
+* Computer Vision:
+  * Raspberry Pi 3
+  * Webcam
+  * SG90 (x2)
+* Sensors/Module:
+  * Attitude Sensor: GY80 / JY901
+  * Power suupply and Motor control: ESC
+  * Wireless communication: APC220
+* Other
+  * 11.1v Battery
+  * Motor + Propeller (x4)
+  * PS4 Joystick
+
+Awards:
+
+* School:
+  * Best Independent Study Award
+  * Best Popularity Award
+* ARM Design Contest:
+  * Top 10
+* HOLTEK MCU Design Contest
+  * Honorable Award
