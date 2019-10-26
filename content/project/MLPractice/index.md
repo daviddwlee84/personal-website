@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Raspberry Pi Cluster"
-summary: "An efficient quick-start tool to build a Raspberry Pi Cluster with popular ecosystem like Hadoop, Spark."
+title: "Machine Learning Practice"
+summary: "Implement machine learning algo. from scratch. Including course projects and notes which are related to statistics machine learning."
 authors: ["admin"]
-tags: ["Side Project"]
+tags: ["School Project", "ML DL"]
 categories: []
-date: 2018-11-15
+date: 2018-10-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/daviddwlee84/RaspPi-Cluster"
+external_link: "https://github.com/daviddwlee84/MachineLearningPractice"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/daviddwlee84/RaspPi-Cluster"
+url_code: "https://github.com/daviddwlee84/MachineLearningPractice"
 url_pdf: ""
 url_slides: ""
 url_video: ""

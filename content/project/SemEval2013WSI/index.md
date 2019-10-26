@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Raspberry Pi Cluster"
-summary: "An efficient quick-start tool to build a Raspberry Pi Cluster with popular ecosystem like Hadoop, Spark."
-authors: ["admin"]
-tags: ["Side Project"]
+title: "SemEval-2013 Word Sense Induction"
+summary: "SemEval-2013 Task 13 Word Sense Induction for Graded and Non-Graded Senses."
+authors: ["admin", "Hui-Wiang Jiang"]
+tags: ["School Project", "ML DL", "NLP"]
 categories: []
-date: 2018-11-15
+date: 2019-05-29
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/daviddwlee84/RaspPi-Cluster"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/daviddwlee84/RaspPi-Cluster"
-url_pdf: ""
+url_code: "https://github.com/pku-nlp-forfun/SemEval2013-WordSenseInduction"
+url_pdf: "https://github.com/pku-nlp-forfun/SemEval2013-Task13-Paper/blob/master/main.pdf"
 url_slides: ""
 url_video: ""
 

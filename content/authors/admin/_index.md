@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Da-Wei Lee (David Lee). I'm a master's student in software engineering at Peking University. Recently focus on natural language processing and knowledge graph related research. Enjoy being a **maker** - think of any creative idea and try hard to make it come true. I love to play music and any other cool stuff. I have a huge enthusiasm for learning and curiosity about discovering.
+My name is Da-Wei Lee (David Lee). I'm a master's student in software engineering at Peking University. Recently focus on natural language processing and knowledge graph related research. Enjoy being a **maker** - think of any creative idea and try hard to make it come true. I love to play music and any other cool stuff. I have a huge enthusiasm for learning and curiosity about discovering. Also, I am very willing to help people and sharing what I have learned.

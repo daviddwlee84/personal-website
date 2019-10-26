@@ -27,7 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "ML/DL"
-    tag = "ML/DL"
+    tag = "ML DL"
+
+  [[content.filter_button]]
+    name = "NLP"
+    tag = "NLP"
 
   [[content.filter_button]]
     name = "School Project"

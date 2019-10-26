@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Raspberry Pi Cluster"
-summary: "An efficient quick-start tool to build a Raspberry Pi Cluster with popular ecosystem like Hadoop, Spark."
+title: "Deep Learning Practice"
+summary: "Neural Network Implementation. Course project including NLP, RL, CV topics."
 authors: ["admin"]
-tags: ["Side Project"]
+tags: ["School Project", "ML DL", "NLP"]
 categories: []
-date: 2018-11-15
+date: 2018-10-15
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/daviddwlee84/RaspPi-Cluster"
+external_link: "https://github.com/daviddwlee84/DeepLearningPractice"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/daviddwlee84/RaspPi-Cluster"
+url_code: "https://github.com/daviddwlee84/DeepLearningPractice"
 url_pdf: ""
 url_slides: ""
 url_video: ""
