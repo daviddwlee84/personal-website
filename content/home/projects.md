@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Side Projects / Courseworks / Source Code"
 
 [content]
   # Page type to display. E.g. project.
@@ -40,6 +40,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Side Project"
     tag = "Side Project"
+
+  [[content.filter_button]]
+    name = "Competition"
+    tag = "Competition"
 
   # [[content.filter_button]]
   #   name = "Other"
