@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-> To setup this project follow academic kickstart's [official instruction](AcademicKickstart.md) or use [one click installation](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
+> To setup project like this, follow academic kickstart's [official instruction](AcademicKickstart.md) or use [one click installation](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
 
 View offline
 
@@ -48,3 +48,18 @@ Icon
 Emoji
 
 * [🎁 Emoji cheat sheet for GitHub, Basecamp, Slack & more](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+### CV/Resume Template
+
+* [Resume: A Tale of Desire, Intrigue, and Formatting](http://www.zackgrossbart.com/hackito/resume/)
+
+#### LaTeX
+
+* [LaTeX Templates » Curricula Vitae/Résumés](https://www.latextemplates.com/cat/curricula-vitae)
+* [posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV)
+* [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - a collection of template that support Chinese (including LaTeX, HTML/JS)
+
+#### Online Resume Builder
+
+* [CakeResume](https://www.cakeresume.com/)
+* [五百丁](https://www.500d.me/)
