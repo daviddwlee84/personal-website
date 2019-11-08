@@ -25,7 +25,8 @@ subtitle = ""
   **Java** for Android App. Dev. <br>
   **C#** for Unity Game Design <br>
   **Verilog HDL** for FPGA Design <br>
-  **Matlab**, **R** for Math Calculation
+  **Matlab**, **R** for Math Calculation <br><br>
+  Fluent using **Vim**
   """
   
 [[feature]]
