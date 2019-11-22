@@ -90,6 +90,23 @@ Currently, the default author is "admin". Use it in the `authors: ["admin", ...]
 
 doi => [Digital Object Identifier System](https://www.doi.org/)
 
+### Set Multi-Language
+
+* [Language and translation | Academic](https://sourcethemes.com/academic/docs/language/)
+* [HTML ISO Language Code Reference](https://www.w3schools.com/tags/ref_language_codes.asp)
+* [Language Code Table](http://www.lingoes.cn/zh/translator/langcode.htm)
+
+#### Issues of zh-Hant
+
+* The `zh-Hant` vs. `zh-hant` problem: [i18n: add 中文 (繁體) by TMineCola · Pull Request #1381 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/pull/1381)
+* The content can use name `content/zh-Hant` but `static/zh-Hant` will cause problems...
+
+> * Github submodule commit
+
+### Contribute to Academic Kickstart
+
+[Contributing to Academic](https://github.com/gcushen/hugo-academic/blob/master/.github/contributing.md)
+
 ## Trouble Shooting
 
 * [failed to extract shortcode: template for shortcode "alert" not found · Issue #1034 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1034)

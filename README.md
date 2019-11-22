@@ -31,6 +31,8 @@ Generate template
 
 ## Resources
 
+* [academic主題 - Hugo學習筆記](https://skyao.io/learning-hugo/theme/academic.html)
+
 ### Diagram
 
 * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaidjs.github.io/)
@@ -61,5 +63,5 @@ Emoji
 
 #### Online Resume Builder
 
-* [CakeResume](https://www.cakeresume.com/)
-* [五百丁](https://www.500d.me/)
+* [CakeResume](https://www.cakeresume.com/) - free for only one document
+* [五百丁](https://www.500d.me/) - not free

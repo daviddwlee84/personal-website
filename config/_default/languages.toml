@@ -8,13 +8,43 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[zh-Hant]
+  languageCode = "zh-TW"
+  contentDir = "content/zh-Hant"
+  title = "David Lee"
+
+  # [zh-Hant.params] => params.toml Basic Info
+  [zh-Hant.params]
+    description = ""
+
+  # [[zh-Hant.menu.main]] => menus.toml
+  [[zh-Hant.menu.main]]
+    name = "關於我"
+    url = "#about"
+    weight = 1
+
+  [[zh-Hant.menu.main]]
+    name = "經驗"
+    url = "#experience"
+    weight = 40
+
+  [[zh-Hant.menu.main]]
+    name = "比賽"
+    url = "#competition"
+    weight = 42
+
+  [[zh-Hant.menu.main]]
+    name = "刊物"
+    url = "#publications"
+    weight = 50
+    # use 30 weight in the future?!
+
+  [[zh-Hant.menu.main]]
+    name = "項目"
+    url = "#projects"
+    weight = 70
+
+  [[zh-Hant.menu.main]]
+    name = "簡歷(English)"
+    url = "files/english_nlp.pdf"
+    weight = 80
