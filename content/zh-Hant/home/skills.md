@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "專長與興趣"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -19,14 +19,14 @@ subtitle = ""
   icon_pack = "fas"
   name = "Programming"
   description = """
-  **Python** for Machine Learning <br>
-  **C/C++** for Embedding System Design <br>
-  **Node.js** for Back-end Design <br>
-  **Java** for Android App. Dev. <br>
-  **C#** for Unity Game Design <br>
-  **Verilog HDL** for FPGA Design <br>
-  **Matlab**, **R** for Math Calculation <br><br>
-  Fluent using **Vim**
+  **Python** 機器學習 <br>
+  **C/C++** 嵌入式系統設計 <br>
+  **Node.js** 後端設計 <br>
+  **Java** Android App 設計 <br>
+  **C#** Unity 遊戲設計 <br>
+  **Verilog HDL** FPGA 晶片設計 <br>
+  **Matlab**, **R** 數學統計計算 <br><br>
+  熟練使用 **Vim**
   """
   
 [[feature]]
@@ -34,22 +34,24 @@ subtitle = ""
   icon_pack = "fas"
   name = "Music"
   description = """
-  Drum Kit <br>
-  Guitar <br>
-  Piano <br>
-  Wind Band Percussion
-  """  
+  爵士鼓 <br>
+  吉他 <br>
+  鋼琴 <br>
+  管樂團打擊樂
+  """
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Other Hobits"
   description = """
-  Photography <br>
-  Rubik's Cube <br>
-  3D Printing <br>
-  Skateboarding <br>
-  Bicycling
+  攝影 <br>
+  魔術方塊 <br>
+  3D 列印 <br>
+  溜滑板 <br>
+  騎腳踏車
   """
 
 +++
+
+當一個人對一件事足夠感興趣，那麼他將會努力讓它成為自己的專長之一。

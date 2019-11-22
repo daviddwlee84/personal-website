@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Da-Wei Lee
+name: 李大為
 
 # Username (this should match the folder name)
 authors:
@@ -10,28 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student
+role: 碩士研究生
 
 # Organizations/Affiliations
 organizations:
-- name: Peking University
+- name: 北京大學
   url: "https://www.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Enjoy being a maker. Currently invest in NLP and AI.
+bio: 自詡為一個 maker，目前致力於 NLP 與 AI 相關領域。
 
 interests:
-- Artificial Intelligence
-- Natural Language Processing
-- Embedding System Design
+- 人工智慧
+- 自然語言處理
+- 嵌入式系統設計
 
 education:
   courses:
-  - course: MEng in Software Engineering
-    institution: Peking University
+  - course: 軟件工程 工學碩士
+    institution: 北京大學
     year: 2021
-  - course: BSc in Electronic and Computer Engineering
-    institution: National Taiwan University of Science and Technology
+  - course: 電子工程 工學學士 (輔修財金)
+    institution: 國立臺灣科技大學
     year: 2017
 
 # Social/Academic Networking
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dwlee@pku.edu.cn  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:B10202211@mail.ntust.edu.tw  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -53,9 +53,9 @@ social:
   link: https://github.com/daviddwlee84
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/english_nlp.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Da-Wei Lee (David Lee). I'm a master's student in software engineering at Peking University. Recently focus on natural language processing and knowledge graph related research. Enjoy being a **maker** - think of any creative idea and try hard to make it come true. I love to play music and any other cool stuff. I have a huge enthusiasm for learning and curiosity about discovering. Also, I am very willing to help people and sharing what I have learned.
+我是李大為 (David Lee)，目前就讀於北京大學軟件與微電子學院，主修軟件工程。目前專注於自然語言處理與知識圖譜的相關研究。自詡為 maker —— 努力實現任何想到的有趣點子。我喜歡音樂和其他我覺得很酷的東西。有輕微的強迫症，做事必須要有條理，特別是在coding上必須規範且優雅。秉持能隨便就隨便但要拘謹就該嚴格的人生哲學（自稱為「真值表哲學」），簡化太過複雜的人生，努力為了變得更懶惰而勤勞。學習上，求知若渴，虛心若愚，也不吝於與他人分享自己的所學，正所謂開源精神。
