@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 71  # Order that this section will appear.
 
-title = "Leadership and Extracurricular Activities"
+title = "領導能力與課外活動"
 subtitle = ""
 
 [content]
@@ -22,15 +22,15 @@ subtitle = ""
   filter_default = 0
 
   [[content.filter_button]]
-    name = "Leadership"
+    name = "領導能力"
     tag = "Leadership"
 
   [[content.filter_button]]
-    name = "Activities"
+    name = "課外活動"
     tag = "Activities"
 
   [[content.filter_button]]
-    name = "Coding Related"
+    name = "程式相關"
     tag = "Coding Related"
 
 [design]

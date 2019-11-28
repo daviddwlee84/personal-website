@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
-subtitle = "Cirtifications"
+title = "證照"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Educational Testing Service"
   organization_url = "https://www.ets.org/"
-  title = "TOEIC 785/990"
+  title = "TOEIC（多益）785/990"
   url = ""
   certificate_url = "http://www.toeic.com.tw/"
   date_start = "2016-01-24"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = "Test of English for International Communication: Advanced"
 
 [[item]]
-  organization = "Workforce Development Agency, Ministry of Labor"
+  organization = "行政院勞工委員會"
   organization_url = "https://www.wda.gov.tw/"
-  title = "Technician Certificate: Computer Maintenance class B"
+  title = "電腦硬體裝修 乙級"
   url = ""
   certificate_url = "https://skill.tcte.edu.tw/"
   date_start = "2013-03-11"
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Workforce Development Agency, Ministry of Labor"
+  organization = "行政院勞工委員會"
   organization_url = "https://www.wda.gov.tw/"
-  title = "Technician Certificate: Computer Maintenance class C"
+  title = "電腦硬體裝修 丙級"
   url = ""
   certificate_url = "https://skill.tcte.edu.tw/"
   date_start = "2012-06-06"

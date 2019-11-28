@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Projects"
-subtitle = "Side Projects / Courseworks / Source Code"
+title = "項目"
+subtitle = "課外項目 / 課程項目 / 原始碼"
 
 [content]
   # Page type to display. E.g. project.
@@ -34,15 +34,15 @@ subtitle = "Side Projects / Courseworks / Source Code"
     tag = "NLP"
 
   [[content.filter_button]]
-    name = "School Project"
+    name = "學校項目"
     tag = "School Project"
 
   [[content.filter_button]]
-    name = "Side Project"
+    name = "課外項目"
     tag = "Side Project"
 
   [[content.filter_button]]
-    name = "Competition"
+    name = "比賽項目"
     tag = "Competition"
 
   # [[content.filter_button]]
