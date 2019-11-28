@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Knowledge Computing Group Research Intern"
+  company = "Microsoft Research Asia"
+  company_url = "https://www.msra.cn/"
+  location = "Beijing"
+  date_start = "2019-12-10"
+  date_end = ""
+  description = """
+  Take over mainly two research-oriented NLP projects.
+
+  * Generation of slides from academic paper
+  * Math word problem generation
+  """
+
+[[experience]]
   title = "National Engineering Research Center of Software Engineering"
   company = "Peking University"
   company_url = "https://se.pku.edu.cn/"
