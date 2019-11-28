@@ -3,7 +3,7 @@
 
 title: "SemEval-2013 Word Sense Induction"
 summary: "SemEval-2013 Task 13 Word Sense Induction for Graded and Non-Graded Senses."
-authors: ["admin", "Hui-Wiang Jiang"]
+authors: ["admin", "Hui-Qiang Jiang"]
 tags: ["School Project", "ML DL", "NLP"]
 categories: []
 date: 2019-05-29

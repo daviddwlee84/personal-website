@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Stanford CS224n NLP with DL"
-summary: "Self-learning of the course. Including projects of dependency parsing, machine translation, question answering."
+summary: "Self-learning of the course. Including projects of word2vec, dependency parsing, machine translation, question answering."
 authors: ["admin"]
 tags: ["Side Project", "ML DL", "NLP"]
 categories: []

@@ -3,7 +3,7 @@
 
 title: "SemEval-2018 Relation Classification"
 summary: "SemEval-2018 Task 7 Semantic Relation Extraction and Classification in Scientific Papers."
-authors: ["admin", "Hui-Wiang Jiang"]
+authors: ["admin", "Hui-Qiang Jiang"]
 tags: ["School Project", "ML DL", "NLP"]
 categories: []
 date: 2019-04-09
