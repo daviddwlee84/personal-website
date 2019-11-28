@@ -3,7 +3,7 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-150731639-1/personal-website/readme)](https://github.com/igrigorik/ga-beacon)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e0ae2679-a864-4cf1-b9be-5eb1ba6069ad/deploy-status)](https://app.netlify.com/sites/dwlee-personal-website/deploys)
 
-* Academic Kickstart Template
+* [Academic](https://themes.gohugo.io/academic/) [Kickstart](https://sourcethemes.com/academic/) [Template](https://github.com/sourcethemes/academic-kickstart)
 * Deploy on Netlify
 * Using [HUGO](https://gohugo.io/) Framework - [github](https://github.com/gohugoio/hugo)
 

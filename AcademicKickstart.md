@@ -103,6 +103,21 @@ doi => [Digital Object Identifier System](https://www.doi.org/)
 
 > * Github submodule commit
 
+### Math
+
+> [Managing content | Academic](https://sourcethemes.com/academic/docs/managing-content/#math-and-code)
+
+To enable LaTeX math rendering for a page, you should include `markup: mmark` and `math: true` in the page’s [front matter](https://sourcethemes.com/academic/docs/front-matter/).
+
+```toml
+markup: mmark
+math: true
+```
+
+> I use this one currently
+
+Otherwise, to enable math on the homepage or for all pages, you must globally set `math = true` in `config/_default/params.toml`.
+
 ### Contribute to Academic Kickstart
 
 [Contributing to Academic](https://github.com/gcushen/hugo-academic/blob/master/.github/contributing.md)
