@@ -48,5 +48,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "Resume"
-   url = "files/english_nlp.pdf"
+   url = "files/english_ml_engineer.pdf"
    weight = 80
