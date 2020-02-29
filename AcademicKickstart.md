@@ -125,3 +125,10 @@ Otherwise, to enable math on the homepage or for all pages, you must globally se
 ## Trouble Shooting
 
 * [failed to extract shortcode: template for shortcode "alert" not found · Issue #1034 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1034)
+
+### Submodule
+
+* I forked the `themes/academic` [here](https://github.com/daviddwlee84/hugo-academic) to fix [`zh-Hant` problem](#issues-of-zh-hant).
+* [Hugo Build Failing After Upgrading Theme Submodule - Support - Netlify Community](https://community.netlify.com/t/hugo-build-failing-after-upgrading-theme-submodule/3241/2)
+* [error: Server does not allow request for unadvertised object · Issue #511 · AppImage/AppImageKit](https://github.com/AppImage/AppImageKit/issues/511)
+  * `git submodule sync`
