@@ -45,6 +45,11 @@
     weight = 70
 
   [[zh-Hant.menu.main]]
-    name = "簡歷(English)"
+    name = "簡歷(英文)"
     url = "files/english_ml_engineer.pdf"
     weight = 80
+
+  [[zh-Hant.menu.main]]
+    name = "簡歷(簡中)"
+    url = "files/simplified_chinese_ml_engineer.pdf"
+    weight = 90
