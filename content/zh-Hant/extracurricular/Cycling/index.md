@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cycling around Taiwan"
+title: "腳踏車環島"
 summary: "Cycling counter-clockwise around Taiwan with senior high school classmate in ten days."
 authors: []
 tags: ["Activities"]

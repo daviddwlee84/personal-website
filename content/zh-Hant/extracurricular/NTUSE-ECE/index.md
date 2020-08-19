@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Student Association of ECE Department"
+title: "台科電子系學會"
 summary: "Serve as atristic designer. Handle poster design and Facebook fans page operation."
 authors: []
 tags: ["Leadership"]

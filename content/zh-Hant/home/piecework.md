@@ -30,11 +30,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Leapsy AR 眼鏡影像串流遙控攝像雲台"
-  company = "All Joint"
+  company = "All Joint 傲嬌文創"
   company_url = "https://alljoint.tw/"
   location = "台北"
   date_start = "2017-07-01"
-  date_end = "2019-10-31"
+  date_end = "2017-10-31"
   description = """
   I collected sensor data on Android-based AR Glasses to capture current attitude and sent it back to Raspberry Pi to synchronize camera pan/tilt head's direction then return video stream back to glasses through Wi-Fi. And I made pan/tilt head structure using 3D print model to contain camera and two servo motors, and designed the power supply circuit for both motors and Raspberry Pi.
   """

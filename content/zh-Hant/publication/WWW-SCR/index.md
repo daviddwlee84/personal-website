@@ -8,7 +8,7 @@ doi: ""
 # ACM DOI 10.1145/1122445.1122456
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-01-10
+publishDate: 2020-01-10
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,6 +28,7 @@ summary: "We develop a similar lawsuit case recommender using triple extration t
 tags: []
 categories: []
 featured: false
+draft: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

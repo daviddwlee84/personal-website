@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Deep Learning Practice"
-summary: "Neural Network Implementation. Course project including NLP, RL, CV topics."
+summary: "實作神經網路，其中包含各種如 NLP、RL、CV 相關 topcis 的項目。"
 authors: ["admin"]
 tags: ["School Project", "ML DL", "NLP"]
 categories: []

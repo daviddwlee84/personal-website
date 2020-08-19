@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Educational Testing Service"
   organization_url = "https://www.ets.org/"
-  title = "TOEIC（多益）785/990"
+  title = "TOEIC（多益） 785/990"
   url = ""
   certificate_url = "http://www.toeic.com.tw/"
   date_start = "2016-01-24"

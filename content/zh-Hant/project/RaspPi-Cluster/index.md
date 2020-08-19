@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Raspberry Pi Cluster"
-summary: "An efficient quick-start tool to build a Raspberry Pi Cluster with popular ecosystem like Hadoop, Spark."
+summary: "開源的 quick-start 工具，可以快速搭建 Raspberry Pi Cluster 並搭載一些著名的 ecosystem 例如 Hadoop, Spark 等。"
 authors: ["admin"]
 tags: ["Side Project"]
 categories: []

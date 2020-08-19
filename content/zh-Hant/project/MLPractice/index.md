@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Machine Learning Practice"
-summary: "Implement machine learning algo. from scratch. Including course projects and notes which are related to statistics machine learning."
+summary: "從零實作機器學習演算法，其中包含許多課程項目與筆記。"
 authors: ["admin"]
 tags: ["School Project", "ML DL"]
 categories: []

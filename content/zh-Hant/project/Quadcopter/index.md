@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Modularized Quadcopter Architecture with Computer Vision Control"
-summary: "My independent study of department. Built a quadcopter from scratch, running on different platform and combined with CV. Earn school awards: Best Independent Study Award, Best Popularity Award."
-authors: ["admin", "Chung-Chang Chen", "Jyun-Yang Shih"]
-tags: ["School Project"]
+title: "基於模組化架構之四軸飛行器設計及其於影像辨識之應用"
+summary: "大學畢業專題。從零打造四軸直昇機，並且在多種不同的開發平台上運行，並結合電腦影像技術做自動控制。獲得校內最佳專題獎、最佳人氣獎。"
+authors: ["admin", "陳重昌", "施鈞陽"]
+tags: ["School Project", "Competition"]
 categories: []
 date: 2016-11-04
 

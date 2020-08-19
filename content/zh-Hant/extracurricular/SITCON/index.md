@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Students' Information Technology Conference"
+title: "SITCON 學生計算機年會"
 summary: "As an attendant of SITCON in 2016 and 2018 spring."
 authors: []
 tags: ["Coding Related"]

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Junior High School Alumni Wind Band"
+title: "二重國中管樂校友團"
 summary: "Being principal percussionist in junior high school alumni wind band during 2016, 2017, 2018, 2019 summer."
 authors: []
 tags: ["Activities"]

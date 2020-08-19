@@ -54,8 +54,8 @@ slides: ""
 * a comma is present
 * the first character is capitalized and the word is the first in the relation
 * the first character is lower-case
-* there is an underscore present (representing a multi-word entity
-* if quotes are present in the token)
+* there is an underscore present (representing a multi-word entity)
+* if quotes are present in the token
 
 我們最主要下功夫的點在於 embedding 的製作上，這也是我們模型最大提升的地方。由於 SemEval 的 dataset 的文字數量遠遠小於可以訓練出一個良好 embedding 的需求。因此首先我們要決定我們額外的 corpus，其次是要用什麼樣的工具來構建 word vectors。我們發現了 Citation Network Dataset，該 dataset 提供了很多近年的 scientific paper。我們在裡面找到了 DBLP v10 和 ACM v9 並擷取其中的 Abstract 文字部分（LightRel 使用的是 DBLP v5 與 ACM v9 的融合）。在這其中我們試過了 Google 的 word2vec 和 Facebook 的 fastText 以及當時很新的 BERT。我們構建了300維的 word vector 並且忽略了出現頻率小於 5 次的字，其中為了處理 out-of-vocabulary 的問題，我們對於 `[UNK]` token 取了所有 embedding 的平均來代表。但當時我們的 BERT fine-tune 並沒有調得很好，而最終在比較後 fastText 表現優於其他兩者。
 

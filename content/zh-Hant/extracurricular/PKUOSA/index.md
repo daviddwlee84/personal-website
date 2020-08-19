@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PKU OSA"
+title: "PKU OSA 北大開源協會"
 summary: "The PKU Open Source Association. Being the core member of ML & NLP department. And also the participant of Web Full Stack department."
 authors: []
 tags: ["Coding Related"]

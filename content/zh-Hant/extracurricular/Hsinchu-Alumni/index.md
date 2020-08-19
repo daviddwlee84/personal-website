@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hsinchu Alumni Association"
+title: "台科竹友會"
 summary: "Serve as photographer and social media manager. Serving in hometown for elementary school students in 2014."
 authors: []
 tags: ["Leadership"]
