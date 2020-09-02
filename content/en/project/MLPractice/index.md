@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Machine Learning Practice"
+title: "Machine Learning Practice ![GitHub stars](https://img.shields.io/github/stars/daviddwlee84/MachineLearningPractice?style=social)"
 summary: "Implement machine learning algo. from scratch. Including course projects and notes which are related to statistics machine learning."
 authors: ["admin"]
 tags: ["School Project", "ML DL"]

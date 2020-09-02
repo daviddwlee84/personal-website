@@ -13,7 +13,12 @@
 
 View offline
 
-1. Install HUGO CLI tool `brew install hugo`
+1. Install HUGO CLI tool `brew install hugo` / `apt install hugo`
+   * [Install Hugo | Hugo](https://gohugo.io/getting-started/installing/)
+   * [Install Hugo on WSL - sal.as](https://sal.as/post/install-hugo-on-wsl/)
+   * [Releases · gohugoio/hugo](https://github.com/gohugoio/hugo/releases)
+     * Make sure you download the "extended version"
+     * [TOCSS: failed to transform "main_parsed.scss" (text/x-scss): this feature is not available in your current Hugo version · Issue #1129 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1129)
 2. Get the theme first `git submodule update --init --recursive`
 3. Run HUGO server by `hugo server` (or execute `./view.sh`)
 4. Default will run on `http://localhost:1313/`
@@ -50,6 +55,14 @@ Icon
 Emoji
 
 * [🎁 Emoji cheat sheet for GitHub, Basecamp, Slack & more](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+Markdown Badges
+
+* [badges/shields: Concise, consistent, and legible badges in SVG and raster format](https://github.com/badges/shields)
+  * [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
+  * Github stars: `/github/stars/:user/:repo?style=social`
+* [Naereen/badges: Markdown code for lots of small badges (shields.io, forthebadge.com etc) . Contributions are welcome! Please add yours!](https://github.com/Naereen/badges)
+* [ddavison/github-badges: Star / Fork badges for your GitHub Repository!](https://github.com/ddavison/github-badges)
 
 ### CV/Resume Template
 

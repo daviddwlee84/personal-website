@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Raspberry Pi Cluster"
+title: "Raspberry Pi Cluster ![GitHub stars](https://img.shields.io/github/stars/daviddwlee84/RaspPi-Cluster?style=social)"
 summary: "An efficient quick-start tool to build a Raspberry Pi Cluster with popular ecosystem like Hadoop, Spark."
 authors: ["admin"]
 tags: ["Side Project"]

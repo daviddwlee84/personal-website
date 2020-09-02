@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Machine Learning Practice"
+title: "Machine Learning Practice ![GitHub stars](https://img.shields.io/github/stars/daviddwlee84/MachineLearningPractice?style=social)"
 summary: "從零實作機器學習演算法，其中包含許多課程項目與筆記。"
 authors: ["admin"]
 tags: ["School Project", "ML DL"]

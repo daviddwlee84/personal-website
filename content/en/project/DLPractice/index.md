@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deep Learning Practice"
+title: "Deep Learning Practice ![GitHub stars](https://img.shields.io/github/stars/daviddwlee84/DeepLearningPractice?style=social)"
 summary: "Neural Network Implementation. Course project including NLP, RL, CV topics."
 authors: ["admin"]
 tags: ["School Project", "ML DL", "NLP"]
