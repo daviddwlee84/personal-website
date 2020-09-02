@@ -44,6 +44,7 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 Netlify
 
 * [Overview | dwlee-personal-website](https://app.netlify.com/sites/dwlee-personal-website/overview) - Manage website on Netlify
+* [Changes coming to Netlify site URLs - Support / Support Guides - Netlify Community](https://community.netlify.com/t/changes-coming-to-netlify-site-urls/8918)
 
 Google Analytics
 
