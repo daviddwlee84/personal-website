@@ -23,10 +23,37 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
   location = "Beijing"
   date_start = "2020-07-20"
-  date_end = ""
+  date_end = "2021-06-18"
   description = """
-  Currently working on Writing Assistant related projects with NLG techniques.
-  Including data collection, model training, and backend API services hosting.
+  Worked on Writing Assistant related projects. In two main parts:
+  
+  * **AI Writer**: An application which aims to increase diversity of an article as well as reduces efforts of writing "filling text" for human. (This was the project used for the intern conversion)
+    * Continuous Writing: 
+      * GPT2
+    * Rewriting:
+      * Paraphrasing
+        * UniLM ([SimBERT](https://github.com/ZhuiyiTechnology/simbert))
+      * Back-translation
+        * Bing Translator
+        * Google Translation
+      * Information-Retrieval-based
+        * Elastic Search
+        * Approximate Nearest Neighbor ([annoy](https://github.com/spotify/annoy))
+      * Style Transfer
+        * Style Transformer
+  * **Value Understanding**: Built a numerical extractor which can extract *quantity fact* from raw text.
+    * Designed an annotation guideline especially for Chinese quantity extraction.
+    * Communication with labeling company and annotate more than 2000 article data to construct the training dataset from scratch.
+    * Designed two major approaches namely "NER Combine" and "Quantity MRC".
+      * NER Combine: Combine spans with label extracted from NER model with an scope-based rule-based algorithm
+      * Quantity MRC: Construct query for each slots based on extracted Quantity
+    * Post-processing modules that able to deal with complex sentences especially the "respectively cases".
+    * Got used as back-end of three different projects
+      * Writing Assistant (mainly finance): Including value consistency and value recommendation
+      * Medical thesis analyser
+      * An WeChat mini program
+  
+  Interviewed 5 internship candidates (after getting the return offer).
   """
 
 [[experience]]
@@ -49,16 +76,18 @@ date_format = "Jan 2006"
   company_url = "https://se.pku.edu.cn/"
   location = "Beijing"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """
   Doing case of Anti-healthcare fraud and Medical record analysis.
 
   Including research of:
   
   * Information Extraction
-  * Named-eneity Recognition
+  * Named-entity Recognition
   * Relation Classification
   * Knowledge Graph
+
+  PKU Thesis: Design and Implementation of Chinese Document Numerical Fact Extraction
   """
 
 [[experience]]

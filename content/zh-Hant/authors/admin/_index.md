@@ -23,6 +23,7 @@ bio: 自許為一個 maker，目前致力於 NLP 與 AI 相關領域。
 interests:
 - 人工智慧
 - 自然語言處理
+- 推薦系統
 - 嵌入式系統設計
 
 education:
@@ -55,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/english_nlp.pdf
+  link: files/english_ml_engineer.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

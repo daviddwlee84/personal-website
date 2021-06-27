@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-09-11"
   date_end = "2019-05-28"
   description = """
-  I used Matlab to process and analysis EEG raw data. And do some visualization and animaiton on it.
+  I used Matlab to process and analysis EEG raw data. And do some visualization and animation on it.
   """
 
 [[experience]]
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_start = "2014-07-01"
   date_end = "2014-10-31"
   description = """
-  I and my collage roommate Tom built a Windows appication to get the machine's sensor values, show them and store them in a database. This project was asked to use Visual Basic.
+  I and my collage roommate Tom built a Windows application to get the machine's sensor values, show them and store them in a database. This project was asked to use Visual Basic.
   """
 
 +++

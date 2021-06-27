@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/zh-cn/ard/aboutus/teams-stca"
   location = "北京"
   date_start = "2020-07-20"
-  date_end = ""
+  date_end = "2021-06-18"
   description = """
   Currently working on Writing Assistant related projects with NLG techniques.
   Including data collection, model training, and backend API services hosting.
@@ -49,16 +49,18 @@ date_format = "Jan 2006"
   company_url = "https://se.pku.edu.cn/"
   location = "北京"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """
   Doing case of Anti-healthcare fraud and Medical record analysis.
 
   Including research of:
   
   * Information Extraction
-  * Named-eneity Recognition
+  * Named-entity Recognition
   * Relation Classification
   * Knowledge Graph
+
+  北大學位論文: 面向中文文本的數值事實抽取方法設計與實現
   """
 
 [[experience]]

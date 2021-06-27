@@ -23,6 +23,7 @@ bio: Enjoy being a maker. Currently invest in NLP and AI.
 interests:
 - Artificial Intelligence
 - Natural Language Processing
+- Recommender System
 - Embedding System Design
 
 education:
@@ -55,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/english_nlp.pdf
+  link: files/english_ml_engineer.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

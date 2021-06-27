@@ -7,6 +7,8 @@
 * Deploy on Netlify
 * Using [HUGO](https://gohugo.io/) Framework - [github](https://github.com/gohugoio/hugo)
 
+> Seems this Acadamic theme is moving on to be the [Wowchemy: Free Website Builder for Hugo](https://wowchemy.com/) project. ([issue](https://github.com/daviddwlee84/personal-website/issues/10))
+
 ## Getting Started
 
 > To setup project like this, follow academic kickstart's [official instruction](AcademicKickstart.md) or use [one click installation](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
