@@ -18,37 +18,53 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Carina Group Algorithm Intern"
+  title = "Bing NLP Carina Algorithm Intern"
   company = "Microsoft Software Technology Center Asia"
   company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
   location = "Beijing"
   date_start = "2020-07-20"
   date_end = "2021-06-18"
   description = """
-  Worked on Writing Assistant related projects. In two main parts:
+  Worked on Writing Assistant related projects in two main parts:
   
   * **AI Writer**: An application which aims to increase diversity of an article as well as reduces efforts of writing "filling text" for human. (This was the project used for the intern conversion)
+
     * Continuous Writing: 
+
       * GPT2
+
     * Rewriting:
+
       * Paraphrasing
+
         * UniLM ([SimBERT](https://github.com/ZhuiyiTechnology/simbert))
+
       * Back-translation
+
         * Bing Translator
         * Google Translation
+
       * Information-Retrieval-based
+
         * Elastic Search
         * Approximate Nearest Neighbor ([annoy](https://github.com/spotify/annoy))
+
       * Style Transfer
+
         * Style Transformer
+
   * **Value Understanding**: Built a numerical extractor which can extract *quantity fact* from raw text.
+
     * Designed an annotation guideline especially for Chinese quantity extraction.
     * Communication with labeling company and annotate more than 2000 article data to construct the training dataset from scratch.
     * Designed two major approaches namely "NER Combine" and "Quantity MRC".
+
       * NER Combine: Combine spans with label extracted from NER model with an scope-based rule-based algorithm
       * Quantity MRC: Construct query for each slots based on extracted Quantity
+
     * Post-processing modules that able to deal with complex sentences especially the "respectively cases".
     * Got used as back-end of three different projects
+
       * Writing Assistant (mainly finance): Including value consistency and value recommendation
       * Medical thesis analyser
       * An WeChat mini program
@@ -57,7 +73,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Knowledge Computing Group Research Intern"
+  title = "Knowledge Computing Research Intern"
   company = "Microsoft Research Asia"
   company_url = "https://www.msra.cn/"
   location = "Beijing"
