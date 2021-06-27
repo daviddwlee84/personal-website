@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e0ae2679-a864-4cf1-b9be-5eb1ba6069ad/deploy-status)](https://app.netlify.com/sites/dwlee-personal-website/deploys)
 
 * [Academic](https://themes.gohugo.io/academic/) [Kickstart](https://sourcethemes.com/academic/) [Template](https://github.com/sourcethemes/academic-kickstart)
-* Deploy on Netlify
+* Deploy on [Netlify](https://www.netlify.com/)
 * Using [HUGO](https://gohugo.io/) Framework - [github](https://github.com/gohugoio/hugo)
 
 > Seems this Acadamic theme is moving on to be the [Wowchemy: Free Website Builder for Hugo](https://wowchemy.com/) project. ([issue](https://github.com/daviddwlee84/personal-website/issues/10))
@@ -20,7 +20,11 @@ View offline
    * [Install Hugo on WSL - sal.as](https://sal.as/post/install-hugo-on-wsl/)
    * [Releases · gohugoio/hugo](https://github.com/gohugoio/hugo/releases)
      * Make sure you download the "extended version"
+     * Better use the same version as deployment (i.e. [version 0.58.3](https://github.com/gohugoio/hugo/releases/tag/v0.58.3))
+       1. `wget https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_extended_0.58.3_Linux-64bit.deb`
+       2. `sudo dpkg -i hugo_extended_0.58.3_Linux-64bit.deb`
      * [TOCSS: failed to transform "main_parsed.scss" (text/x-scss): this feature is not available in your current Hugo version · Issue #1129 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1129)
+   * [klakegg/hugo](https://hub.docker.com/r/klakegg/hugo/)
 2. Get the theme first `git submodule update --init --recursive`
 3. Run HUGO server by `hugo server` (or execute `./view.sh`)
 4. Default will run on `http://localhost:1313/`

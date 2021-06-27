@@ -18,10 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Bing Multimedia Software Engineer"
+  company = "Microsoft Software Technology Center Asia"
+  company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
+  location = "Suzhou, China"
+  date_start = "2021-07-19"
+  date_end = ""
+  description = """
+  Going to do Recommender System related topics.
+  """
+
+[[experience]]
   title = "Bing NLP Carina Algorithm Intern"
   company = "Microsoft Software Technology Center Asia"
   company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
-  location = "Beijing"
+  location = "Beijing, China"
   date_start = "2020-07-20"
   date_end = "2021-06-18"
   description = """
@@ -37,21 +48,21 @@ date_format = "Jan 2006"
 
       * Paraphrasing
 
-        * UniLM ([SimBERT](https://github.com/ZhuiyiTechnology/simbert))
+          * UniLM ([SimBERT](https://github.com/ZhuiyiTechnology/simbert))
 
       * Back-translation
 
-        * Bing Translator
-        * Google Translation
+          * Bing Translator
+          * Google Translation
 
       * Information-Retrieval-based
 
-        * Elastic Search
-        * Approximate Nearest Neighbor ([annoy](https://github.com/spotify/annoy))
+          * Elastic Search
+          * Approximate Nearest Neighbor ([annoy](https://github.com/spotify/annoy))
 
       * Style Transfer
 
-        * Style Transformer
+          * Style Transformer
 
   * **Value Understanding**: Built a numerical extractor which can extract *quantity fact* from raw text.
 
@@ -67,16 +78,16 @@ date_format = "Jan 2006"
 
       * Writing Assistant (mainly finance): Including value consistency and value recommendation
       * Medical thesis analyser
-      * An WeChat mini program
+      * A WeChat mini program
   
-  Interviewed 5 internship candidates (after getting the return offer).
+  <br>Interviewed 5 internship candidates (after getting the return offer).
   """
 
 [[experience]]
   title = "Knowledge Computing Research Intern"
   company = "Microsoft Research Asia"
   company_url = "https://www.msra.cn/"
-  location = "Beijing"
+  location = "Beijing, China"
   date_start = "2019-12-10"
   date_end = "2020-05-29"
   description = """
@@ -87,10 +98,10 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "National Engineering Research Center of Software Engineering"
-  company = "Peking University"
+  title = "Research Intern (Laboratory)"
+  company = "Peking University National Engineering Research Center of Software Engineering"
   company_url = "https://se.pku.edu.cn/"
-  location = "Beijing"
+  location = "Beijing, China"
   date_start = "2019-07-01"
   date_end = "2021-06-30"
   description = """
@@ -103,14 +114,14 @@ date_format = "Jan 2006"
   * Relation Classification
   * Knowledge Graph
 
-  PKU Thesis: Design and Implementation of Chinese Document Numerical Fact Extraction
+  > PKU Thesis: Design and Implementation of Chinese Document Numerical Fact Extraction
   """
 
 [[experience]]
   title = "Embedding System Design Software Intern"
   company = "Industrial Technology Research Institute (ITRI)"
   company_url = "https://www.itri.org.tw"
-  location = "Taiwan"
+  location = "Hsinchu, Taiwan"
   date_start = "2016-07-01"
   date_end = "2016-08-31"
   description = """

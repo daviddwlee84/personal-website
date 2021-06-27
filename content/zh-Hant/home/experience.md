@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Bing多媒體 軟體工程師"
+  company = "微軟亞洲互聯網工程院"
+  company_url = "https://www.microsoft.com/zh-cn/ard/aboutus/teams-stca"
+  location = "蘇州"
+  date_start = "2021-07-19"
+  date_end = ""
+  description = """
+  Going to do Recommender System related topics.
+  """
+
+[[experience]]
   title = "Bing NLP Carina 算法實習生"
   company = "微軟亞洲互聯網工程院"
   company_url = "https://www.microsoft.com/zh-cn/ard/aboutus/teams-stca"
@@ -44,7 +55,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "研究實習生"
+  title = "研究實習生 (實驗室)"
   company = "北京大學 軟件工程國家工程研究中心"
   company_url = "https://se.pku.edu.cn/"
   location = "北京"
@@ -60,14 +71,14 @@ date_format = "Jan 2006"
   * Relation Classification
   * Knowledge Graph
 
-  北大學位論文: 面向中文文本的數值事實抽取方法設計與實現
+  > 北大學位論文: 面向中文文本的數值事實抽取方法設計與實現
   """
 
 [[experience]]
   title = "嵌入式系統軟體組實習生"
   company = "工業技術研究院"
   company_url = "https://www.itri.org.tw"
-  location = "台灣"
+  location = "新竹"
   date_start = "2016-07-01"
   date_end = "2016-08-31"
   description = """
