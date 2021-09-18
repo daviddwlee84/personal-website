@@ -29,15 +29,14 @@
     weight = 40
 
   [[zh-Hant.menu.main]]
+    name = "刊物"
+    url = "#publications"
+    weight = 50
+
+  [[zh-Hant.menu.main]]
     name = "比賽"
     url = "#competition"
-    weight = 42
-
-#   [[zh-Hant.menu.main]]
-#     name = "刊物" # 論文
-#     url = "#publications"
-#     weight = 50
-#     # use 30 weight in the future?!
+    weight = 60
 
   [[zh-Hant.menu.main]]
     name = "項目"

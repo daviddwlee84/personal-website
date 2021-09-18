@@ -37,13 +37,14 @@ subtitle = ""
   爵士鼓 <br>
   吉他 <br>
   鋼琴 <br>
-  管樂團打擊樂
+  管樂團打擊樂 <br>
+  宅錄
   """
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Other Hobits"
+  name = "Other Hobbies"
   description = """
   攝影 <br>
   魔術方塊 <br>

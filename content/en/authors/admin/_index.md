@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Peking University
-  url: "https://www.pku.edu.cn/"
+- name: Microsoft
+  url: "https://www.microsoft.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Enjoy being a maker. Currently invest in NLP and AI.
@@ -42,13 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dwlee@pku.edu.cn  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:daweilee@microsoft.com  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=LdEiD5kAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/daviddwlee84

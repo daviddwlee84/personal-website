@@ -15,18 +15,18 @@
 
 View offline
 
-1. Install HUGO CLI tool `brew install hugo` / `apt install hugo`
+1. Install HUGO CLI tool `brew install hugo` (MacOS) / `apt install hugo` (Debian) / `choco install hugo` (Windows)
    * [Install Hugo | Hugo](https://gohugo.io/getting-started/installing/)
    * [Install Hugo on WSL - sal.as](https://sal.as/post/install-hugo-on-wsl/)
    * [Releases · gohugoio/hugo](https://github.com/gohugoio/hugo/releases)
-     * Make sure you download the "extended version"
+     * [Make sure you download the **"extended version"**](https://gohugo.io/troubleshooting/faq/#i-get-this-feature-is-not-available-in-your-current-hugo-version)
      * Better use the same version as deployment (i.e. [version 0.58.3](https://github.com/gohugoio/hugo/releases/tag/v0.58.3))
        1. `wget https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_extended_0.58.3_Linux-64bit.deb`
        2. `sudo dpkg -i hugo_extended_0.58.3_Linux-64bit.deb`
      * [TOCSS: failed to transform "main_parsed.scss" (text/x-scss): this feature is not available in your current Hugo version · Issue #1129 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1129)
    * [klakegg/hugo](https://hub.docker.com/r/klakegg/hugo/)
 2. Get the theme first `git submodule update --init --recursive`
-3. Run HUGO server by `hugo server` (or execute `./view.sh`)
+3. Run HUGO server by `hugo server` (or execute `./view.sh` / `.\view.ps1`)
 4. Default will run on `http://localhost:1313/`
 
 ### Add Content

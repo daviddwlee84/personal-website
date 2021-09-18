@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 碩士研究生
+role: 軟體工程師
 
 # Organizations/Affiliations
 organizations:
-- name: 北京大學
-  url: "https://www.pku.edu.cn/"
+- name: 微軟
+  url: "https://www.microsoft.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 自許為一個 maker，目前致力於 NLP 與 AI 相關領域。
@@ -42,13 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:B10202211@mail.ntust.edu.tw  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:daweilee@microsoft.com  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=LdEiD5kAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/daviddwlee84

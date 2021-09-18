@@ -37,13 +37,14 @@ subtitle = ""
   Drum Kit <br>
   Guitar <br>
   Piano <br>
-  Wind Band Percussion
+  Wind Band Percussion <br>
+  Home Studio
   """  
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Other Hobits"
+  name = "Other Hobbies"
   description = """
   Photography <br>
   Rubik's Cube <br>
