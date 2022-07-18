@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Microsoft Suzhou Band - Return True"
-summary: "We formed at FY22 Kickoff (Aug, 2021), and continue till today."
+summary: "We formed at FY22 Kickoff (Aug 2021), and continue till today. I act as a drummer, acoustic guitar player, keyboardist, vocal, recordist, mixer, ... in this band."
 authors: []
 tags: ["Music"]
 categories: []

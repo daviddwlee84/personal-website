@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Life"
-subtitle = ""
+subtitle = "You only live once, so YOLO!"
 
 [content]
   # Page type to display. E.g. project.
@@ -70,4 +70,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-

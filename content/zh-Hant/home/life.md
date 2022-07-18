@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "生活"
-subtitle = ""
+subtitle = "一生只活一次，所以放手一搏吧！"
 
 [content]
   # Page type to display. E.g. project.

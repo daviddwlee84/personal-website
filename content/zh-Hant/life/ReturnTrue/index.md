@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "微軟蘇州樂團 - Return True"
-summary: "我們因為 FY22 Kickoff (Aug, 2021) 的表演而相聚，並一起玩音樂直到今日。"
+summary: "我們因為 FY22 Kickoff (2021年8月) 的表演而相聚，並一起玩音樂直到今日。我在樂團中擔任鼓手、木吉他手、鍵盤手、抒情人聲、錄音師、混音師、…"
 authors: []
 tags: ["Music"]
 categories: []
