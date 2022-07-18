@@ -69,3 +69,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+* [WangShengguang/KE: Knowledge Embedding](https://github.com/WangShengguang/KE)
+* [WangShengguang/GAKE](https://github.com/WangShengguang/GAKE)
+
+> * [WangShengguang/ccks-2020: CCKS 2020：新冠知识图谱构建与问答评测（四）新冠知识图谱问答评测](https://github.com/WangShengguang/ccks-2020)
