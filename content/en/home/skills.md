@@ -47,10 +47,15 @@ subtitle = ""
   name = "Other Hobbies"
   description = """
   Photography <br>
+  Skateboarding <br>
   Rubik's Cube <br>
   3D Printing <br>
-  Skateboarding <br>
-  Bicycling
+  Rollerskating <br>
+  Bicycling <br>
+  Skiing <br>
+  Motorcycling
   """
 
 +++
+
+Learn everything I am interested in and master them.

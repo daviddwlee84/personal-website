@@ -47,10 +47,13 @@ subtitle = ""
   name = "Other Hobbies"
   description = """
   攝影 <br>
+  溜滑板 <br>
   魔術方塊 <br>
   3D 列印 <br>
-  溜滑板 <br>
-  騎腳踏車
+  直排輪 <br>
+  騎腳踏車 <br>
+  滑雪 <br>
+  騎摩托車
   """
 
 +++

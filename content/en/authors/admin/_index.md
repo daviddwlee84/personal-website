@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: Data & Applied Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.microsoft.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Enjoy being a maker. Currently invest in NLP and AI.
+bio: Enjoy being a maker. Currently invest in Recommender System, NLP and AI.
 
 interests:
 - Artificial Intelligence
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Da-Wei Lee (David Lee). I'm a master's student in software engineering at Peking University. Recently focus on natural language processing and knowledge graph related research. Enjoy being a **maker** - think of any creative idea and try hard to make it come true. I love to play music and any other cool stuff. I have a huge enthusiasm for learning and curiosity about discovering. Also, I am very willing to help people and sharing what I have learned.
+My name is Da-Wei Lee (David Lee). I am a Data & Applied Scientist at Microsoft. And I have been working on the video recommendation system used in several scenarios like Bing, MSN, and Edge for the last year. Enjoy being a **maker** - think of any creative idea and try hard to make it come true. I love to play music and any other cool stuff. I have a huge enthusiasm for learning and curiosity about discovering. Also, I am very willing to help people and sharing what I have learned.

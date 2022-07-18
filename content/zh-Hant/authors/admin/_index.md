@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 軟體工程師
+role: 資料與應用科學家
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.microsoft.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 自許為一個 maker，目前致力於 NLP 與 AI 相關領域。
+bio: 自許為一個 maker，目前致力於推薦系統、NLP 與 AI 相關領域。
 
 interests:
 - 人工智慧
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-我是李大為 (David Lee)，目前就讀於北京大學軟件與微電子學院，主修軟件工程。目前專注於自然語言處理與知識圖譜的相關研究。自許為 maker —— 努力實現任何想到的有趣點子。我喜歡音樂和其他我覺得很酷的東西。有輕微的強迫症，做事必須要有條理，特別是在coding上必須規範且優雅。秉持能隨便就隨便但要拘謹就該嚴格的人生哲學（自稱為「真值表哲學」），簡化太過複雜的人生，努力為了變得更懶惰而勤勞。學習上，求知若渴，虛心若愚，也不吝於與他人分享自己的所學，正所謂開源精神。
+我是李大為 (David Lee)，目前在微軟擔任資料與應用科學家，過去一年主要專注於影片推薦系統並運用於Bing、MSN與Edge等不同場景中。自許為 maker —— 努力實現任何想到的有趣點子。我喜歡音樂和其他我覺得很酷的東西。有輕微的強迫症，做事必須要有條理，特別是在coding上必須規範且優雅。秉持能隨便就隨便但要拘謹就該嚴格的人生哲學（自稱為「真值表哲學」），簡化太過複雜的人生，努力為了變得更懶惰而勤勞。學習上，求知若渴，虛心若愚，也不吝於與他人分享自己的所學，正所謂開源精神。

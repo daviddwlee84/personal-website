@@ -18,14 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Bing多媒體 資料與應用科學家"
+  company = "Microsoft Software Technology Center Asia"
+  company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
+  location = "Suzhou, China"
+  date_start = "2022-07-04"
+  date_end = ""
+  description = """
+  Title update.
+  """
+
+[[experience]]
   title = "Bing多媒體 軟體工程師"
   company = "微軟亞洲互聯網工程院"
   company_url = "https://www.microsoft.com/zh-cn/ard/aboutus/teams-stca"
   location = "蘇州"
-  date_start = "2021-07-19"
-  date_end = ""
+  date_start = "2020-07-21"
+  date_end = "2021-06-18"
   description = """
-  Going to do Recommender System related topics.
+  Recommender System for Video Recommendation.
   """
 
 [[experience]]
