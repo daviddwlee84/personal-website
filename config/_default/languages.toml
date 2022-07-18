@@ -29,6 +29,11 @@
     weight = 40
 
   [[zh-Hant.menu.main]]
+    name = "生活"
+    url = "#life"
+    weight = 45
+
+  [[zh-Hant.menu.main]]
     name = "經驗"
     url = "#experience"
     weight = 50
