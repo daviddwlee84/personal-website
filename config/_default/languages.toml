@@ -24,13 +24,13 @@
     weight = 1
 
   [[zh-Hant.menu.main]]
-    name = "經驗"
-    url = "#experience"
+    name = "刊物"
+    url = "#publications"
     weight = 40
 
   [[zh-Hant.menu.main]]
-    name = "刊物"
-    url = "#publications"
+    name = "經驗"
+    url = "#experience"
     weight = 50
 
   [[zh-Hant.menu.main]]
