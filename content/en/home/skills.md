@@ -47,13 +47,15 @@ subtitle = ""
   name = "Other Hobbies"
   description = """
   Photography <br>
+  Coffee (Latte Art & Pour-Over Coffee) <br>
   Skateboarding <br>
   Rubik's Cube <br>
   3D Printing <br>
   Rollerskating <br>
   Bicycling <br>
   Skiing <br>
-  Motorcycling
+  Motorcycling <br>
+  Drone
   """
 
 +++
