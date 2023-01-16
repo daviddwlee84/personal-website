@@ -133,3 +133,31 @@ Otherwise, to enable math on the homepage or for all pages, you must globally se
 * [Hugo Build Failing After Upgrading Theme Submodule - Support - Netlify Community](https://community.netlify.com/t/hugo-build-failing-after-upgrading-theme-submodule/3241/2)
 * [error: Server does not allow request for unadvertised object · Issue #511 · AppImage/AppImageKit](https://github.com/AppImage/AppImageKit/issues/511)
   * `git submodule sync`
+
+### Netlify Deploy Issue
+
+```txt
+UNSUPPORTED BUILD IMAGE
+
+The build image for this site uses Ubuntu 16.04 Xenial Xerus, which is no longer supported.
+
+To enable builds for this site, select a later build image at the following link:
+https://app.netlify.com/sites/dwlee-personal-website/settings/deploys#build-image-selection
+
+For more details, visit the build migration guide:
+https://answers.netlify.com/t/please-read-end-of-support-for-xenial-build-image-everything-you-need-to-know/68239
+```
+
+```txt
+Support for the Xenial build image ended on November 15, 2022. To enable builds for this site, select another build image. Read the migration guide.
+https://answers.netlify.com/t/please-read-end-of-support-for-xenial-build-image-everything-you-need-to-know/68239
+
+Build image
+Ubuntu Xenial 16.04 (deprecated)
+```
+
+Ubuntu Xenial 16.04 (deprecated)
+Legacy build image for older sites. Netlify is phasing out support for Ubuntu Xenial 16.04 and the build image will not be supported in the future.
+
+Ubuntu Focal 20.04 (default)
+Current default build image for all new sites
