@@ -18,10 +18,10 @@
 % CONFIGURATIONS
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
-\documentclass[11pt, a4paper]{awesome-cv}
+\documentclass[10pt, a4paper]{awesome-cv}
 
 % Configure page margins with geometry
-\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=.8cm, footskip=.5cm}
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
@@ -54,21 +54,22 @@
 % Available options: circle|rectangle,edge/noedge,left/right
 \photo[circle,edge,right]{profile}
 \name{Da-Wei}{Lee}
-\position{Master Student{\enskip\cdotp\enskip}Natural Language Processing}
+\position{Data \& Applied Scientist{\enskip\cdotp\enskip}AI/Data/Back-End}
+% \position{Data \& Applied Scientist{\enskip\cdotp\enskip}AI/DL/ML/NLP/Big Data/Back-end}
 % \address{42-8, Bangbae-ro 15-gil, Seocho-gu, Seoul, 00681, Rep. of KOREA}
 
 \mobile{(+86) 156-5225-0910}
 \email{dwlee@pku.edu.cn}
-\homepage{dwlee-personal-website.netlify.app}
+% \homepage{dwlee-personal-website.netlify.app}
 \github{daviddwlee84}
-% \linkedin{posquit0}
+% \linkedin{daviddwlee84}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
 % \skype{skype-id}
 % \reddit{reddit-id}
 % \medium{madium-id}
-% \googlescholar{googlescholar-id}{name-to-display}
+\googlescholar{LdEiD5kAAAAJ}{Da-Wei Li}
 %% \firstname and \lastname will be used
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra informations}
@@ -85,10 +86,10 @@
 
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
-\makecvfooter
-  {\today}
-  {David Lee~~~·~~~Resume}
-  {\thepage}
+% \makecvfooter
+%   {\today}
+%   {Da-Wei Lee~~~·~~~Resume}
+%   {\thepage}
 
 
 %-------------------------------------------------------------------------------
@@ -96,10 +97,9 @@
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \input{resume/summary.tex}
+\input{resume/experiences.tex}
+\input{resume/publications.tex}
 \input{resume/education.tex}
-\input{resume/experience.tex}
-\input{resume/ml_project.tex}
-\input{resume/eng_project.tex}
 
 
 %-------------------------------------------------------------------------------
