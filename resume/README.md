@@ -4,7 +4,7 @@
 
 > From latest to oldest
 
-* [english_general_sample](english_general_sample/)
+* [english_microsoft_data_and_applied_scientist](english_microsoft_data_and_applied_scientist/)
 * [english_ml_engineer](english_ml_engineer/) 
 & [simplified_chinese_ml_engineer](simplified_chinese_ml_engineer/)
 * [english_nlp](english_nlp/)
