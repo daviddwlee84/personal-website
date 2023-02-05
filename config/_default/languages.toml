@@ -50,10 +50,10 @@
 
   [[zh-Hant.menu.main]]
     name = "簡歷(英文)"
-    url = "files/english_ml_engineer.pdf"
+    url = "files/english_microsoft_data_and_applied_scientist.pdf"
     weight = 80
 
-  [[zh-Hant.menu.main]]
-    name = "簡歷(簡中)"
-    url = "files/simplified_chinese_ml_engineer.pdf"
-    weight = 90
+  # [[zh-Hant.menu.main]]
+  #   name = "簡歷(簡中)"
+  #   url = "files/simplified_chinese_ml_engineer.pdf"
+  #   weight = 90
