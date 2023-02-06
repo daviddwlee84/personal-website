@@ -15,7 +15,7 @@
 
 View offline
 
-1. Install HUGO CLI tool `brew install hugo` (MacOS) / `apt install hugo` (Debian) / `choco install hugo` (Windows)
+1. Install HUGO CLI tool `brew install hugo` (MacOS) / `apt install hugo` (Debian) / `choco install hugo --version 0.58.3` (Windows)
    * [Install Hugo | Hugo](https://gohugo.io/getting-started/installing/)
    * [Install Hugo on WSL - sal.as](https://sal.as/post/install-hugo-on-wsl/)
    * [Releases · gohugoio/hugo](https://github.com/gohugoio/hugo/releases)
