@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/english_ml_engineer.pdf
+  link: files/simplified_chinese_microsoft_data_and_applied_scientist.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
