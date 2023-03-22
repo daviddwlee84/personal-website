@@ -1,0 +1,52 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Publications}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {\textbf{Da-Wei Li}, Danqing Huang, Tingting Ma, Chin-Yew Lin} % Organization
+    {\href{https://www.microsoft.com/en-us/research/publication/towards-topic-aware-slide-generation-for-academic-papers-with-unsupervised-mutual-learning/}{Towards Topic-Aware Slide Generation For Academic Papers With Unsupervised Mutual Learning}} % Title
+    {AAAI 2021 (CCF A)} % Location
+    {May. 2021} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {对学术论文自动生成简报，其中利用 extractive summarization 以及 unsupervised mutual learning。}
+        \item {在 mutual learning 的框架中利用两个 extractors （一个 Log-Linear Classifier 与一个 Neural Sentence Selection Model） 来互相学习，藉由两种模型各自的优势在 unsupervised 的限制之下学出更好的结果。}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Huifan Yang, \textbf{Da-Wei Li}, Zekun Li, Donglin Yang, Bin Wu} % Organization
+    {\href{https://www.easychair.org/publications/preprint_open/jz3j}{Open Relation Extraction with Non-Existent and Multi-Span Relationships}} % Title
+    {KR 2022 (CCF B)} % Location
+    {Feb. 2022} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {设计 Query-based Multi-head Open Relation Extractor (QuORE) 来抽取 single/multi-span relations 并且判断 non-existent relationships。}
+        \item {QuORE 是一个 multi-head 的框架其中由两个 sub-modules 构成，SSE (Single-Span Extraction) 与 QASL (Query-based Sequence Labeling)，他们在训练时共享 loss 并在预测时有一个 selector 来选择应该用哪个模型的输出作为最终结果。}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Huifan Yang, \textbf{Da-Wei Li}, Zekun Li, Donglin Yang, Jinsheng Qi, Bin Wu} % Organization
+    {\href{https://www.easychair.org/publications/preprint_open/lLmV}{Open Relation Extraction via Query-Based Span Prediction}} % Title
+    {KSEM 2022 (CCF C)} % Location
+    {May. 2022} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {设计 Query-based Open Relation Extractor (QORE)，是一个多语言的 Transformers-based language model 用来抽取 arguments 与 context 中所包含的关系。}
+        \item {其中实验包括 Multilingual ORE、在 non-query/query-based and non-LM/LM models 上的 ablation study、zero-shot domain transferability 以及 few-shot learning 能力。}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
