@@ -18,30 +18,51 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Bing Multimedia Data & Applied Scientist"
-  company = "Microsoft Software Technology Center Asia"
-  company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
-  location = "Suzhou, China"
-  date_start = "2022-07-04"
+  title = "Machine Learning Researcher"
+  company = "jingle.ai"
+  company_url = "https://jingle.ai/"
+  location = "Shanghai, China"
+  date_start = "2023-05-22"
   date_end = ""
   description = """
-  Title update.
+  T0 Quant Machine Learning Strategy Research
   """
 
 [[experience]]
-  title = "Bing Multimedia Software Engineer"
-  company = "Microsoft Software Technology Center Asia"
+  title = "Data & Applied Scientist"
+  company = "Microsoft Software Technology Center Asia - WebXT Bing Multimedia"
   company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
   location = "Suzhou, China"
   date_start = "2021-07-21"
-  date_end = "2022-07-03"
+  date_end = "2023-03-31"
   description = """
   Recommender System for Video Recommendation.
   """
 
+# [[experience]]
+#   title = "Bing Multimedia Data & Applied Scientist"
+#   company = "Microsoft Software Technology Center Asia"
+#   company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
+#   location = "Suzhou, China"
+#   date_start = "2022-07-04"
+#   date_end = "2023-03-31"
+#   description = """
+#   Title update.
+#   """
+# 
+# [[experience]]
+#   title = "Bing Multimedia Software Engineer"
+#   company = "Microsoft Software Technology Center Asia"
+#   company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
+#   location = "Suzhou, China"
+#   date_start = "2021-07-21"
+#   date_end = "2022-07-03"
+#   description = """
+#   """
+
 [[experience]]
-  title = "Bing NLP Carina Algorithm Intern"
-  company = "Microsoft Software Technology Center Asia"
+  title = "Algorithm Intern"
+  company = "Microsoft Software Technology Center Asia - WebXT Bing NLP Carina"
   company_url = "https://www.microsoft.com/en-us/ard/aboutus/teams.aspx"
   location = "Beijing, China"
   date_start = "2020-07-20"
@@ -95,8 +116,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Knowledge Computing Research Intern"
-  company = "Microsoft Research Asia"
+  title = "Research Intern"
+  company = "Microsoft Research Asia - Knowledge Computing"
   company_url = "https://www.msra.cn/"
   location = "Beijing, China"
   date_start = "2019-12-10"

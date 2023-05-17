@@ -126,6 +126,8 @@ Otherwise, to enable math on the homepage or for all pages, you must globally se
 ## Trouble Shooting
 
 * [failed to extract shortcode: template for shortcode "alert" not found · Issue #1034 · gcushen/hugo-academic](https://github.com/gcushen/hugo-academic/issues/1034)
+* [Git clone --recurse-submodules throws error on MacOs: Transmission type 'file' not allowed - Stack Overflow](https://stackoverflow.com/questions/74486167/git-clone-recurse-submodules-throws-error-on-macos-transmission-type-file-n)
+  * `git config --global protocol.file.allow always`
 
 ### Submodule
 
