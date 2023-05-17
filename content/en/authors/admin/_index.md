@@ -10,19 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Data & Applied Scientist
+role: Machine Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Microsoft
-  url: "https://www.microsoft.com/"
+- name: jingle.ai
+  url: "https://jingle.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Enjoy being a maker. Currently invest in Recommender System, NLP and AI.
+bio: Enjoy being a maker. Currently invest in Quant, NLP and AI.
 
 interests:
 - Artificial Intelligence
 - Natural Language Processing
+- Quant
 - Recommender System
 - Embedding System Design
 
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:daweilee@microsoft.com  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:daviddwlee84@gmail.com  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -56,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/english_ml_engineer.pdf
+  link: files/english_microsoft_data_and_applied_scientist.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Da-Wei Lee (David Lee). I am a Data & Applied Scientist at Microsoft. And I have been working on the video recommendation system used in several scenarios like Bing, MSN, and Edge for the last year. Enjoy being a **maker** - think of any creative idea and try hard to make it come true. I love to play music and any other cool stuff. I have a huge enthusiasm for learning and curiosity about discovering. Also, I am very willing to help people and sharing what I have learned.
+My name is Da-Wei Lee (David Lee). I am an ex-Data & Applied Scientist at Microsoft. Currently working at a Quant company doing trading strategy research using Machine Learning. Enjoy being a **maker** - think of any creative idea and try hard to make it come true. I love to play music and any other cool stuff. I have a huge enthusiasm for learning and curiosity about discovering. Also, I am very willing to help people and sharing what I have learned.
