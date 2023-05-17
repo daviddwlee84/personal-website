@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+# https://jshrss.jiangsu.gov.cn/col/col85519/
+# http://jndj.osta.org.cn/
+# http://pjjg.osta.org.cn/
+# https://rs.jshrss.jiangsu.gov.cn/mobile/licence/validate?zzName=NTI1MzMyMzY%3D&zzbh=NTMzMDMwMzAzMDMzMzIzMDM1MzAzODMwMzYzMjMzMzQzMDMwMzEzNjM4MzA%3D
+
+[[item]]
+  organization = "江蘇省技能人才評價中心"
+  organization_url = "https://jshrss.jiangsu.gov.cn/col/col85519/"
+  title = "中級咖啡師"
+  url = ""
+  certificate_url = "http://jndj.osta.org.cn/"
+  date_start = "2023-02-20"
+  date_end = ""
+  description = "江蘇省職業技能證書，編號 S000032050806234001680"
+
 [[item]]
   organization = "Educational Testing Service"
   organization_url = "https://www.ets.org/"
