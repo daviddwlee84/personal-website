@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Ecojoy"
+  company = "BeChangeMaker"
+  company_url = "https://worldskills.org/what/projects/bechangemaker/"
+  location = "線上"
+  date_start = "2023-03-15"
+  date_end = "2023-09-27"
+  description = """
+  We want to solve the problem of “Toy waste”. Excessive pollution not only affects the physical environment of future generations but also cultivates children who do not cherish resources, which has a major impact on the world. We hope that through a very simple way, every old toy will no longer be piled up at home or enter the landfill, but can also become a resource for others. We have software engineering, social education, and economics background. Observing that the problem of toy waste is becoming more and more serious, it is readily available and cheap, becoming a quick solution for most parents to deal with their children. We believe that as long as the sharing and acquisition methods are simple enough, it can immediately improve the situation of excessive waste.  Through subscription to become members of Ecojoy App, you can easily share excess toys at home, and through the perfect toy information and rating system on APP, users can easily find suitable toys to meet their needs and achieve toy sharing and reuse.
+
+  [Facebook Page](https://www.facebook.com/profile.php?id=100086462244943)
+  """
+
+[[experience]]
   title = "Jigsaw Unintended Bias in Toxicity Classification"
   company = "Kaggle"
   company_url = "https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification"

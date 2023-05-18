@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = "Cirtifications"
+subtitle = "Certifications"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
