@@ -18,13 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Ecojoy"
-  company = "BeChangeMaker"
+  title = "BeChangeMaker"
+  company = "World Skills"
   company_url = "https://worldskills.org/what/projects/bechangemaker/"
   location = "Online"
   date_start = "2023-03-15"
   date_end = "2023-09-27"
   description = """
+  **Ecojoy**
+
   We want to solve the problem of “Toy waste”. Excessive pollution not only affects the physical environment of future generations but also cultivates children who do not cherish resources, which has a major impact on the world. We hope that through a very simple way, every old toy will no longer be piled up at home or enter the landfill, but can also become a resource for others. We have software engineering, social education, and economics background. Observing that the problem of toy waste is becoming more and more serious, it is readily available and cheap, becoming a quick solution for most parents to deal with their children. We believe that as long as the sharing and acquisition methods are simple enough, it can immediately improve the situation of excessive waste.  Through subscription to become members of Ecojoy App, you can easily share excess toys at home, and through the perfect toy information and rating system on APP, users can easily find suitable toys to meet their needs and achieve toy sharing and reuse.
 
   [Facebook Page](https://www.facebook.com/profile.php?id=100086462244943)
@@ -84,7 +86,7 @@ date_format = "Jan 2006"
   date_start = "2015-05-01"
   date_end = "2015-08-31"
   description = """
-  Designed a platform called Skill Exchange -  maa talent and skill exchange platfom which matches people with their know-how and what they want to learn. Finally, we get honorable award.
+  Designed a platform called Skill Exchange -  maa talent and skill exchange platform which matches people with their know-how and what they want to learn. Finally, we get honorable award.
   """
 
 [[experience]]
@@ -95,7 +97,7 @@ date_format = "Jan 2006"
   date_start = "2014-10-01"
   date_end = "2015-05-31"
   description = """
-  An installation art LED grid ball that combined sound and light. This project colaborated with design deparment students. Using gaming button to trigger MIDI signal to a computer to make a sound. And control LED grid with Arduino. Finally we get merit award.
+  An installation art LED grid ball that combined sound and light. This project collaborated with design department students. Using gaming button to trigger MIDI signal to a computer to make a sound. And control LED grid with Arduino. Finally we get merit award.
   """
 
 [[experience]]
@@ -106,7 +108,7 @@ date_format = "Jan 2006"
   date_start = "2014-05-01"
   date_end = "2014-07-31"
   description = """
-  I and my friend Tom built an AI BOT for the 2048 game. We used MCTS with alpha-beta purning to select best action. And score each state(board) with our own designed evaluation function. Finally we get honorable award.
+  I and my friend Tom built an AI BOT for the 2048 game. We used Monte Carlo Tree Search (MCTS) with alpha-beta pruning to select best action. And score each state(board) with our own designed evaluation function. Finally we get honorable award.
   """
 
 +++
